@@ -70,8 +70,7 @@ This roadmap outlines the development direction for the Kjern ecosystem, includi
 ## 🟪 Community & Ecosystem Roadmap
 
 - ⏳ Public issue tracker for feedback  
-- ⏳ Example project submissions  
-- ⏳ Maker-oriented video guides (optional)  
+- ⏳ Example project submissions
 - ⏳ Beta testing program (for Kjern-32u4 and C2)  
 
 ---
